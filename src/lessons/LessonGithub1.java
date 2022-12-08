@@ -6,7 +6,7 @@ public class LessonGithub1 {
 
         System.out.println("InteliJ'de github çalışması");
         System.out.println("InteliJ'de github çalışması");
-
+        System.out.println("InteliJ'de Branch ile github çalışması");
 
     }
 }
